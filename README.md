@@ -1,6 +1,6 @@
 # Overview
 ---
-Fourth-year Computer Engineering student at Palestine Polytechnic University (GPA: 3.75), 
+Fourth-year Computer Engineering student at Palestine Polytechnic University,
 passionate about software development and mobile applications.
 
 Currently building my skills in **Flutter & Dart**, with a solid foundation in 
@@ -15,5 +15,6 @@ Currently building my skills in **Flutter & Dart**, with a solid foundation in
 ## 📌 Highlight
 ---
 - Practical training at Trusted Systems Company – Flutter development
+- Practical training at Iztec Company – QA
 - Deployed an AI-powered CV Analyzer on Microsoft Azure
 - Member of IEEE Student Branch & PPU Code Club
