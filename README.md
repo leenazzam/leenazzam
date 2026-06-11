@@ -1,16 +1,19 @@
-## Hi there 👋
+# Overview
+---
+Fourth-year Computer Engineering student at Palestine Polytechnic University (GPA: 3.75), 
+passionate about software development and mobile applications.
 
-<!--
-**leenazzam/leenazzam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently building my skills in **Flutter & Dart**, with a solid foundation in 
+**C++**, OOP, algorithms, and data structures.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+---
+- **Languages:** C++, Dart, Java
+- **Tools:** Flutter, Git, GitHub, Android Studio, Figma, VS Code
+- **OS:** Windows, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Highlight
+---
+- Practical training at Trusted Systems Company – Flutter development
+- Deployed an AI-powered CV Analyzer on Microsoft Azure
+- Member of IEEE Student Branch & PPU Code Club
