@@ -1,18 +1,16 @@
 # Overview
 ---
-Flutter developer with hands-on experience building cross-platform mobile apps 
-and deploying web tools on Microsoft Azure. Strong background in C++, algorithms, 
-and software architecture.
+Software Developer with hands-on experience in mobile application development, UI implementation, and problem-solving. Developed multiple applications ranging from food delivery systems to electronic service platforms, with a focus on performance, maintainability, and user experience. Passionate about building reliable software, learning new technologies, and delivering impactful digital solutions.
 
-## 🛠️Skills
+## 🛠️ Skills
 ---
 - **Languages:** C++, Dart, Java
-- **Tools:** Flutter, Git, GitHub, Android Studio, Figma, VS Code
-- **OS:** Windows, Linux
+- **Frameworks & Tools:** Flutter, Git, GitHub, Android Studio, Figma, VS Code
+- **Operating Systems:** Windows, Linux
 
-## 📌 Contacts
+## 📌 Experience & Achievements
 ---
-- Practical training at Trusted Systems Company – Flutter development
-- Practical training at Iztec Company – QA
+- Flutter Development Intern at Trusted Systems Company
+- QA Intern at Iztec Company
 - Deployed an AI-powered CV Analyzer on Microsoft Azure
-- Member of IEEE Student Branch & PPU Code Club
+- Developed multiple cross-platform mobile applications using Flutter
