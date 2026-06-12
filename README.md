@@ -1,18 +1,16 @@
 # Overview
 ---
-Fourth-year Computer Engineering student at Palestine Polytechnic University,
-passionate about software development and mobile applications.
+Flutter developer with hands-on experience building cross-platform mobile apps 
+and deploying web tools on Microsoft Azure. Strong background in C++, algorithms, 
+and software architecture.
 
-Currently building my skills in **Flutter & Dart**, with a solid foundation in 
-**C++**, OOP, algorithms, and data structures.
-
-## 🛠️ Tech Stack
+## 🛠️Skills
 ---
 - **Languages:** C++, Dart, Java
 - **Tools:** Flutter, Git, GitHub, Android Studio, Figma, VS Code
 - **OS:** Windows, Linux
 
-## 📌 Highlight
+## 📌 Contacts
 ---
 - Practical training at Trusted Systems Company – Flutter development
 - Practical training at Iztec Company – QA
